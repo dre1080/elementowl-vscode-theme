@@ -1,0 +1,46 @@
+{
+  "name": "elementowl-theme",
+  "displayName": "ElementOwl",
+  "description": "elementaryOS theme for VSCode. Inspired by the fabulous Night Owl Light Theme and elementary Theme.",
+  "publisher": "dre1080",
+  "repository": "https://github.com/dre1080/elementowl-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/dre1080/elementowl-vscode-theme/issues"
+  },
+  "license": "MIT",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "elementary",
+    "elementaryos",
+    "light",
+    "linux",
+    "pantheon",
+    "Night Owl",
+    "Light Owl",
+    "ElementOwl"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#7239b3",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "ElementOwl",
+        "uiTheme": "vs",
+        "path": "./themes/ElementOwl-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "publish": "vsce publish"
+  }
+}
