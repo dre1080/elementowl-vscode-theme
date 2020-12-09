@@ -11,7 +11,6 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 15
-      - run: npm ci
       - name: Publish to Open VSX Registry
         uses: HaaLeo/publish-vscode-extension@v0
         with:

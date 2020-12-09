@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/dre1080/elementowl-vscode-theme">
-    <img src="https://raw.githubusercontent.com/dre1080/elementowl-vscode-theme/release/icon.png" width=128>
+    <img src="./icon.png" width=128>
   </a>
 
   <h3 align="center"><strong>ElementOwl Theme</strong></h3>
@@ -18,6 +18,6 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/electricduck/vscode-elementary-theme/release/screen.png">
+    <img src="./screen.png">
   </p>
 </p>
