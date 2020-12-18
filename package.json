@@ -8,7 +8,7 @@
     "url": "https://github.com/dre1080/elementowl-vscode-theme/issues"
   },
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.51.0"
   },
