@@ -20,6 +20,6 @@
   </p>
 
   <p align="center">
-    <img src="./screen.png">
+    <img src="./screen.jpg">
   </p>
 </p>

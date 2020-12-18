@@ -6,9 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.2] - 2020-12-18
 
-### Fixed
+### Changed
 
 - Fix `terminal.foreground` contrast
+- Update README screen image
 
 ## [0.1.1] - 2020-12-09
 
